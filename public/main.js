@@ -68,8 +68,3 @@ if (window.location.pathname.endsWith('index.html')) {
     // 初始化加载留言
     loadMessages();
 }
-    });
-
-    // 初始化加载留言
-    loadMessages();
-}
