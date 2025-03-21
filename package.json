@@ -1,0 +1,17 @@
+{
+    "name": "my-website",
+    "version": "1.0.0",
+    "description": "A simple website with login and message board",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2",
+        "mongodb": "^5.9.2"
+    }
+}
